@@ -8,4 +8,5 @@ layout: list
 
 Review the definitions for terms used across Cloudflare's DNS documentation.
 
-{{<glossary product="DNS">}}
+{{<glossary product="DNS
+    ">}}
